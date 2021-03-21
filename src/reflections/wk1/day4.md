@@ -1,6 +1,9 @@
 # Day 4
 
 ## Daily Journal
+Afternoon Challenge - 
+https://github.com/alecvictory/partner-clone-challenge
+https://alecvictory.github.io/partner-clone-challenge/
 
 Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions
 

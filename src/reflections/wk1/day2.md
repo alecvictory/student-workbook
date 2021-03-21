@@ -3,6 +3,7 @@
 ## Daily Journal
 
 Afternoon Challenge - https://github.com/alecvictory/awesome-website
+                    https://alecvictory.github.io/awesome-website/
 
 Read Building Blocks Of Web Development > CSS and answer the following questions
 

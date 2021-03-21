@@ -2,6 +2,8 @@
 
 ## Daily Journal
 
+Afternoon Challenge - https://github.com/alecvictory/awesome-website
+                    https://alecvictory.github.io/clone-site-challenge/
 
 Read Building Blocks Of Web Development > Cheating At Design and answer the following questions.
 

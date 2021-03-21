@@ -50,23 +50,25 @@ you would set the font weight or font-weight: bold
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> = unordered list
+<ol> = ordered list
+<dl> = description list
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex is a property that sets flexible length on flexible items with a myriad of functions.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+content, padding, border, margin
 ```
