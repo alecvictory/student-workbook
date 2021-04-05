@@ -2,7 +2,7 @@
 
 ## Daily Journal
 
-Afternoon Challenge - 
+Afternoon Challenge - https://alecvictory.github.io/spring21-gregslist/
 
 Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
 

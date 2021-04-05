@@ -2,7 +2,7 @@
 
 ## Daily Journal
 
-Afternoon Challenge - 
+Afternoon Challenge - https://alecvictory.github.io/darryl-store/
 
 Read Advancing with JS > The Observer Pattern and answer the following questions.
 

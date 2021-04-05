@@ -2,7 +2,7 @@
 
 ## Daily Journal
 
-Afternoon Challenge - 
+Afternoon Challenge - https://alecvictory.github.io/spring21-gregslist/
 
 Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions
 
