@@ -3,7 +3,10 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+abstraction
+encapsulation
+inheritance
+polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -16,48 +19,49 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+property = staff.name
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+binding the variables with the functions acting on the data
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+single responsibility principle
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+class is a blueprint you use to create objects
+instance of a class is a concrete thing you used specific to the class itself
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+its an object that wraps another object and intercepts the operations of the target object
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+its designed to break an application into 3 separate parts. the model, view, and controller.
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+the controller handles events and is the mediator between the view and the model. it works when the user performs an action.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the service layer mediates communication between a controller and repository. it contains business and validation logic
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the model only utilizes raw data in javascript it works on objects.
 ```
 
