@@ -1,8 +1,8 @@
 # Day 3 Working with multiple API's
 
 ## Daily Journal
-
-afternoon challenge -
+ 
+afternoon challenge - https://alecvictory.github.io/pokemon/
 
 Read Asynchronous Code > Async and Await and answer the following questions
 

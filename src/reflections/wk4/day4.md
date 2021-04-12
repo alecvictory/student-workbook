@@ -2,7 +2,7 @@
 
 ## Daily Journal
 
-afternoon challenge -
+afternoon challenge - https://alecvictory.github.io/tunes/
 
 Read Asynchronous Code > What is REST and answer the following questions
 
