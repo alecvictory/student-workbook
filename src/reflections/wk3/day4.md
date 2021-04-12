@@ -2,6 +2,19 @@
 
 ## Daily Journal
 
+---------------------------------------
+Morning Challenge 
+
+function timeConvert(min) {
+    let minutes = min % 60
+    let hours = (min - minutes) / 60
+
+    return `${hours} : ${minutes}`
+}
+
+timeConvert(300)
+
+---------------------------------------
 Afternoon Challenge - https://alecvictory.github.io/darryl-store/
 
 Read Advancing with JS > The Observer Pattern and answer the following questions.

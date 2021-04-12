@@ -2,6 +2,26 @@
 
 ## Daily Journal
 
+Morning Challenge 
+---------------------------------------------------------------------------
+function factorize(n) {
+    let factors = []
+    // Check every number starting at 1 -> the number
+    for (let i = 1; i <= n; i++) {
+        // if the number is a multiple : perfectly divisible into the number (aka no remainder)
+        if (n % i == 0) {
+            // add to array
+            factors.push(i)
+        }
+    }
+    return factors
+}
+// OUTPUT: array of numbers
+console.log(12, factorize(12));
+console.log(100, factorize(100));
+console.log(123456, factorize(123456));
+------------------------------------------------------------------------
+
 Afternoon Challenge - https://alecvictory.github.io/spring21-gregslist/
 
 Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions

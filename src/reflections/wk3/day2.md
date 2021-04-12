@@ -2,6 +2,31 @@
 
 ## Daily Journal
 
+Morning Challenge 
+---------------------------------------------------------------------------
+function mostCommonLetter(str) {
+    let mostCommon = ''
+
+    let letters = {}
+    for (let i = 0; i < str.length; i++) {
+        let char = str[i]
+        letters[char] = letters[char] || 0
+        letters[char]++
+    }
+
+    let max = 0
+    let largestChar = ''
+
+    for (let char in letters) {
+        if (letters[char] > largest) {
+            largest = letters[char]
+            largestChar = char
+        }
+    }
+
+    return mostCommon
+}
+-----------------------------------------------------------------------
 Afternoon Challenge - https://alecvictory.github.io/spring21-gregslist/
 
 Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
