@@ -13,6 +13,7 @@ a sign of callback hell is a pyrmaid of curly braces. this is caused by writing 
 What does the asynchronous mean and how are callbacks involved?
 
 Asynchronous means that javascript is using callbacks. 
+new changes
 
 Summarize the 3 ways to avoid / fix Callback Hell
 
