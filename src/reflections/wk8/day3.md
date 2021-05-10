@@ -3,9 +3,17 @@
 ## Daily Journal
 
 Daily Journal
-Read Advancing with Vue 3 > Designing a Strong User Experience and answer the following questions
-What is a User Experience? What should be considered when developing a User Experience?
+Read Working In a Professional Environment > Unit Testing and answer the following questions
+What is Software Development Testing?
 
-What are some benefits of taking into account the User Experience?
+SDT is testing the smallest unit of code but its up to the developer on what they want to test
 
-Why is the User Experience important?
+What are the benefits of Testing in software development?
+
+testing gives you peace of mind, if you make a change and test that it works then it gives you peace of mind later down the road. 
+
+efficiency, even if testing is time consuming it will save time in the long run in case you run into bugs.
+
+What are some potential drawbacks of Testing in software development?
+if theres bad communication or coordination with the tester things can go wrong
+blind coverage- so the tester might not know about a specific segment of code
