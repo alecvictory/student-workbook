@@ -1,12 +1,10 @@
 # Find More About me here:
 
 ## Social Media
-  - [Follow Me on Twitter](https://twitter.com)
-  - [Connect on LinkedIn](https://linkedin.com)
+  - [Connect on LinkedIn](https://www.linkedin.com/in/alec-victory/)
 ## About Me
-  - [My Github](https://github.com)
+  - [My Github](https://github.com/alecvictory)
   - [Portfolio](https://github.com)
 ## Contact
-  - Phone: 123-456-7890
-  - Email: student@student.com
+  - Email: alecvictory1993@gmail.com
   
